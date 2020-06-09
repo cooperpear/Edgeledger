@@ -5,10 +5,10 @@ Edgeledger is a CSS3 flexbox demonstration. It uses lightbox2 for image display,
 https://cooperpear.github.io/Edgeledger/
 
 ## Built With
-HTML5
-CSS3
-Javascript
-Jquery
+HTML5<br>
+CSS3<br>
+Javascript<br>
+Jquery<br>
 Lightbox2
 
 ## Areas of Expansion
