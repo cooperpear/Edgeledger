@@ -18,7 +18,7 @@ Backend storage for PHP contact form.
 Cooper Pearson
 
 ## Screenshots
-![Home](https://github.com/cooperpear/Edgeledger/blob/master/screencapture-cooperpear-github-io-Edgeledger-2020-06-09-17_29_24.png?raw=true "Home")
+![Home](https://github.com/cooperpear/Edgeledger/blob/master/Edgeledger.png?raw=true "Home")
 
 ![Blog](https://github.com/cooperpear/Edgeledger/blob/master/screencapture-cooperpear-github-io-Edgeledger-blog-html-2020-06-09-17_30_13.png?raw=true "Blog")
 
